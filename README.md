@@ -1,1 +1,1 @@
-Entire project is done using databricks and AWS S3. Free versions were used for both
+Entire project is done using free versions of Databricks and AWS S3.
